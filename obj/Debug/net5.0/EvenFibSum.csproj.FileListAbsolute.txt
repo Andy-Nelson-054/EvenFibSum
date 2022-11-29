@@ -1,0 +1,16 @@
+C:\Users\Andy\source\repos\EvenFibSum\bin\Debug\net5.0\EvenFibSum.exe
+C:\Users\Andy\source\repos\EvenFibSum\bin\Debug\net5.0\EvenFibSum.deps.json
+C:\Users\Andy\source\repos\EvenFibSum\bin\Debug\net5.0\EvenFibSum.runtimeconfig.json
+C:\Users\Andy\source\repos\EvenFibSum\bin\Debug\net5.0\EvenFibSum.runtimeconfig.dev.json
+C:\Users\Andy\source\repos\EvenFibSum\bin\Debug\net5.0\EvenFibSum.dll
+C:\Users\Andy\source\repos\EvenFibSum\bin\Debug\net5.0\ref\EvenFibSum.dll
+C:\Users\Andy\source\repos\EvenFibSum\bin\Debug\net5.0\EvenFibSum.pdb
+C:\Users\Andy\source\repos\EvenFibSum\obj\Debug\net5.0\EvenFibSum.csproj.AssemblyReference.cache
+C:\Users\Andy\source\repos\EvenFibSum\obj\Debug\net5.0\EvenFibSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\source\repos\EvenFibSum\obj\Debug\net5.0\EvenFibSum.AssemblyInfoInputs.cache
+C:\Users\Andy\source\repos\EvenFibSum\obj\Debug\net5.0\EvenFibSum.AssemblyInfo.cs
+C:\Users\Andy\source\repos\EvenFibSum\obj\Debug\net5.0\EvenFibSum.csproj.CoreCompileInputs.cache
+C:\Users\Andy\source\repos\EvenFibSum\obj\Debug\net5.0\EvenFibSum.dll
+C:\Users\Andy\source\repos\EvenFibSum\obj\Debug\net5.0\ref\EvenFibSum.dll
+C:\Users\Andy\source\repos\EvenFibSum\obj\Debug\net5.0\EvenFibSum.pdb
+C:\Users\Andy\source\repos\EvenFibSum\obj\Debug\net5.0\EvenFibSum.genruntimeconfig.cache
